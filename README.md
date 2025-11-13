@@ -1,14 +1,3 @@
-[![Sn1perSecurity](https://sn1persecurity.com/images/Sn1perSecurity-Attack-Surface-Management-header2.png)](https://sn1persecurity.com)
-
-[![GitHub release](https://img.shields.io/github/release/1N3/Sn1per.svg)](https://github.com/1N3/Sn1per/releases)
-[![GitHub issues](https://img.shields.io/github/issues/1N3/Sn1per.svg)](https://github.com/1N3/Sn1per/issues)
-[![Github Stars](https://img.shields.io/github/stars/1N3/Sn1per.svg?style=social&label=Stars)](https://github.com/1N3/Sn1per/)
-[![GitHub Followers](https://img.shields.io/github/followers/1N3.svg?style=social&label=Follow)](https://github.com/1N3/Sn1per/)
-[![Tweet](https://img.shields.io/twitter/url/http/xer0dayz.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Ftweet-button%2Foverview&ref_src=twsrc%5Etfw&text=Sn1per%20-%20Automated%20Pentest%20Recon%20Scanner&tw_p=tweetbutton&url=https%3A%2F%2Fgithub.com%2F1N3%2FSn1per)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/xer0dayz.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=xer0dayz)
-
-[[Website](https://sn1persecurity.com/wordpress/)] [[Blog](https://sn1persecurity.com/wordpress/blog/)] [[Shop](https://sn1persecurity.com/wordpress/shop)] [[Documentation](https://sn1persecurity.com/wordpress/documentation/)] [[Demo](https://www.youtube.com/c/Sn1perSecurity/videos)] [[Find Out More](https://sn1persecurity.com/wordpress/external-attack-surface-management-with-sn1per/)]
-
 
 ## Attack Surface Management Platform
 
@@ -42,23 +31,9 @@ Sn1per is a next-generation information gathering tool that provides automated, 
 
 [![](https://sn1persecurity.com/wordpress/wp-content/uploads/2022/05/Sn1per-Enterprise-vulnerability-report1-3.png)](https://sn1persecurity.com/)
 
-### See Sn1per in action
 
-[![](https://sn1persecurity.com/wordpress/wp-content/uploads/2022/10/Sn1perbootcampseries1.png)](https://www.youtube.com/c/Sn1perSecurity/videos)
 
-### News
 
-- #### [🔐 Sn1per Enterprise v20250522 Released – Next-Level Offensive Security & Vulnerability Scanning](https://sn1persecurity.com/wordpress/sn1per-enterprise-v20250522-released/)
-- #### [Sn1per SE v10.8 Now Available – New Features, Tools & Enhancements!](https://sn1persecurity.com/wordpress/sn1per-scan-engine-v10-8-released/)
-- #### [Sn1per Enterprise Released!](https://sn1persecurity.com/wordpress/sn1per-enterprise-released/)
-- #### [Sn1per Professional v10.0 Released!](https://sn1persecurity.com/wordpress/sn1per-professional-v10-released/)
-
-## Kali/Ubuntu/Debian/Parrot Linux Install
-
-```
-git clone https://github.com/1N3/Sn1per
-cd Sn1per
-bash install.sh
 ```
 
 ## AWS AMI (Free Tier) VPS Install
@@ -216,35 +191,4 @@ sniper -u|--update
 - **VULNSCAN:** Launches a OpenVAS vulnerability scan.
 - **MASSVULNSCAN:** Launches a "vulnscan" mode scans on multiple targets specified via the "-f" switch.
 
-## Help Topics
 
-- [x] [Plugins & Tools](https://github.com/1N3/Sn1per/wiki/Plugins-&-Tools)
-- [x] [Scheduled Scans](https://github.com/1N3/Sn1per/wiki/Scheduled-Scans)
-- [x] [Sn1per Configuration Options](https://github.com/1N3/Sn1per/wiki/Sn1per-Configuration-Options)
-- [x] [Sn1per Configuration Templates](https://github.com/1N3/Sn1per/wiki/Sn1per-Configuration-Templates)
-- [x] [Sc0pe Templates](https://github.com/1N3/Sn1per/wiki/Sc0pe-Templates)
-
-## Integration Guides
-
-- [x] [Github API integration](https://github.com/1N3/Sn1per/wiki/Github-API-Integration)
-- [x] [Burpsuite Professional 2.x integration](https://github.com/1N3/Sn1per/wiki/Burpsuite-Professional-2.x-Integration)
-- [x] [OWASP ZAP integration](https://github.com/1N3/Sn1per/wiki/OWASP-ZAP-Integration)
-- [x] [Shodan API integration](https://github.com/1N3/Sn1per/wiki/Shodan-Integration)
-- [x] [Censys API integration](https://github.com/1N3/Sn1per/wiki/Censys-API-Integration)
-- [x] [Hunter.io API integration](https://github.com/1N3/Sn1per/wiki/Hunter.io-API-Integration)
-- [x] [Metasploit integration](https://github.com/1N3/Sn1per/wiki/Metasploit-Integration)
-- [x] [Nessus integration](https://github.com/1N3/Sn1per/wiki/Nessus-Integration)
-- [x] [OpenVAS API integration](https://github.com/1N3/Sn1per/wiki/OpenVAS-Integration)
-- [x] [GVM 21.x integration](https://github.com/1N3/Sn1per/wiki/GVM-21.x-Integration)
-- [x] [Slack API integration](https://github.com/1N3/Sn1per/wiki/Slack-API-Integration)
-- [x] [WPScan API integration](https://github.com/1N3/Sn1per/wiki/WPScan-API-Integration)
-
-## License & Legal Agreement
-
-For license and legal information, refer to the [LICENSE.md](https://github.com/1N3/Sn1per/blob/master/LICENSE.md) file in this repository.
-
-## Purchase Sn1per Professional
-
-To obtain a Sn1per Professional license, go to <https://sn1persecurity.com>.
-
-External attack surface management, Attack surface monitoring, Attack Surface Management Platform, Attack Surface Management Solutions, Vulnerability management, Threat intelligence, Cybersecurity risk assessment, Security posture assessment, Digital footprint analysis, Attack surface mapping, Web application security, Network security, Infrastructure security, Cloud security, Third-party risk management, Incident response, Penetration testing, Asset discovery, Patch management, Security scanning, Firewall configuration, Intrusion detection system, Security awareness training, Data breach prevention, Web server security, Endpoint security, Phishing protection, Vulnerability assessment, Network security, Web application testing, Ethical hacking, Security assessment, Information security, Red teaming, Cybersecurity testing, Pen testing tools, Exploitation techniques, Wireless network testing, Social engineering, Security auditing, Incident response, Intrusion detection, Firewall testing, Security assessment methodology, Risk assessment, Security controls, Web vulnerability scanning, Password cracking, Security testing services, Security architecture, System hardening, Network reconnaissance, Red teaming, Penetration testing, Cybersecurity, Vulnerability assessment, Attack simulation, Threat intelligence, Risk assessment, Security testing, Adversarial tactics, Incident response, Security assessment, Network security, Defensive measures, Security controls, Social engineering, Exploitation techniques, Security awareness, Defensive strategies, Risk mitigation, Blue teaming, Security operations, Intrusion detection, Security frameworks, Cyber defense, Information security
